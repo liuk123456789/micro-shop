@@ -7,7 +7,7 @@ const App = createApp({
   // 入口组件不需要实现 render 方法，即使实现了也会被 taro 所覆盖
 })
 
-11221231console.log('1231')
+console.log('1232132')
 
 App.use(createPinia())
 
